@@ -1,4 +1,4 @@
-# costeanShell
+# cShell
 This is a custom shell implementation that provides several built-in commands such as "dir", "rm", and "uniq". These commands have been implemented specifically for this shell and are not standard Unix commands.
 
 The "dir" command is used to list the contents of a directory, while "rm" is used to remove files or directories. The "uniq" command removes duplicate lines from a text file and can also display only the lines that are duplicated or the unique lines.
